@@ -1,1 +1,1 @@
-eheckel.github.io
+This is the project requirements page that we submitted to our class in order to get credit for our Hackathon project. Feel free to peruse the requirements we completed and the to-do's still left over!
